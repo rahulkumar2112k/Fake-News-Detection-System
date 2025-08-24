@@ -8,6 +8,17 @@ The main goal is to preprocess raw text data, convert it into numerical form usi
 
 ---
 
+## 📂 About The Dataset
+- **id** : unique id of the news article  
+- **title** : the title of a news article  
+- **author** : author of the news article  
+- **text** : the text of the article (may be incomplete)  
+- **label** : a label that marks whether the news article is real or fake  
+  - `1` : fake news  
+  - `0` : real news  
+
+---
+
 ## 🚀 Tech Stack / Libraries Used  
 - **Python 3**  
 - **NumPy** – numerical computations  
