@@ -60,6 +60,17 @@ The main goal is to preprocess raw text data, convert it into numerical form usi
 ## 📊 Results  
 - Training Accuracy: ~ (your score here, e.g., 98%)  
 - Test Accuracy: ~ (your score here, e.g., 96%)  
-- Heatmap visualization to analyze correct vs. incorrect predictions.  
+- Heatmap visualization to analyze correct vs. incorrect predictions.
+
+
+---
+## 📂 Project Structure 
+├── train.csv              # Dataset
+├── FakeNewsDetection.ipynb # Jupyter Notebook with full code
+├── README.md              # Project documentation
+
+---
+## 📂 Dataset
+The dataset is available [here on Google Drive](https://drive.google.com/file/d/191w6vvq2d9zYtOK7B4BiyvVgRSMsUJdR/view?usp=drive_link).
 
 ---
