@@ -65,9 +65,10 @@ The main goal is to preprocess raw text data, convert it into numerical form usi
 
 ---
 ## 📂 Project Structure 
-├── train.csv              # Dataset
-├── FakeNewsDetection.ipynb # Jupyter Notebook with full code
-├── README.md              # Project documentation
+├── train.csv                        
+├── FakeNewsDetection.ipynb        
+├── README.md                        
+
 
 ---
 ## 📂 Dataset
